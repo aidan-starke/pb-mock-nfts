@@ -6,7 +6,7 @@ interface TaskArgs {
 }
 
 const CONTRACTS = {
-	NFT: "0xBbD32D447e1Ff93505Dd18602AE8F9A15897837C",
+	NFT: "0xe0b5627fB6b8f912C06e9FB5d303eEaa0e65D906",
 	SFT: "0xaEafb9c5EBfBaaFa6aE2cc4d487Eb6b302c4a51d",
 };
 
