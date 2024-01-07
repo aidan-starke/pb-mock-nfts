@@ -31,6 +31,13 @@ const config = {
 			url: `https://goerli.infura.io/v3/${process.env.INFURA_API_TOKEN}`,
 			accounts: [process.env.ETH_ACCOUNT_KEY],
 		},
+		sepolia: {
+			url: `https://sepolia.infura.io/v3/${process.env.INFURA_API_TOKEN}`,
+			accounts: [process.env.ETH_ACCOUNT_KEY],
+		},
+	},
+	etherscan: {
+		apiKey: process.env.ETHERSCAN_API_KEY,
 	},
 };
 
